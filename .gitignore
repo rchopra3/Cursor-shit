@@ -34,9 +34,8 @@ venv.bak/
 *.sqlite3
 
 # Generated files
-outputs/
-*.png
-*.csv
+# outputs/  # Commented out to allow CSV exports
+# *.png     # Commented out to allow visualization files
 *.log
 
 # IDE
